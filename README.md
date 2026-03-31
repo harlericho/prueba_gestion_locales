@@ -24,7 +24,7 @@ Aplicación Full Stack desarrollada con **Laravel 11** que permite visualizar y 
 ```bash
 # 1. Clonar el repositorio
 git clone https://github.com/harlericho/prueba_gestion_locales.git
-cd prueba
+cd prueba_gestion_locales
 
 # 2. Instalar dependencias
 composer install
